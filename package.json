@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctcmiguel/Chart.git"
+  },
+  "author": "Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctcmiguel/Chart/issues"
+  },
+  "homepage": "https://github.com/ctcmiguel/Chart#readme",
+  "type": "module",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+=======
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+>>>>>>> 573837308e0b4b86133852d18549c6f5bd9e4d47
+  }
+}
